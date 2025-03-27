@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil da Laryssa Martins, mas pode me chamar de Lola. 😁
 
  <div>
    <a href="https://github.com/lolapqsim">
@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Pra conteúdo sobre programação me segue nas redes abaixo!
  
 <div> 
  <a href="https://discord.gg/pkC2UyZdXR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
